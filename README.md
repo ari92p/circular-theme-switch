@@ -4,12 +4,12 @@ A circular dark/light reveal that expands from your click. Zero runtime dependen
 
 ![Website and app theme switches in action](assets/circular-theme-switch-stable.gif)
 
-[**Live demo →**](https://mlemors.github.io/circular-theme-switch/demo/)
+[**Live demo →**](https://ari92p.github.io/circular-theme-switch/demo/)
 
 ## Use it
 
 ```sh
-npm install github:mlemors/circular-theme-switch#v1.1.3
+npm install github:ari92p/circular-theme-switch#v1.1.3
 ```
 
 ```js
@@ -34,7 +34,7 @@ Add a button with `id="theme-button"` and an accessible label. Style your theme 
 ## Run the demo locally
 
 ```sh
-git clone https://github.com/mlemors/circular-theme-switch.git
+git clone https://github.com/ari92p/circular-theme-switch.git
 cd circular-theme-switch
 npm run demo
 ```
